@@ -7,3 +7,6 @@ Using Data Classification, I trained this AI ML Model to detect Negative(0, -) t
 comments from customer reviews on a restaurant website.
 
 ![20230813055600](https://github.com/Raicon47/ML-ai-model/assets/47249002/9b8d66d2-977f-49be-b4f5-eee6c1adc4ec)
+
+
+This project is licensed under the terms of the MIT license https://opensource.org/license/mit/
